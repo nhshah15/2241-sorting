@@ -18,6 +18,5 @@ dirty good-dominating 10000 10 # dirty comparison predictions, good-dominating s
 To visualize the number of comparisons needed by each algorithm and baseline, check the Python script `plot.ipynb`.
 
 # Proposed algorithms
-- The implementation of Double-Hoover Sort is at `algorithms/Both2.cpp`.
-- The implementation of Displacement Sort is at `algorithms/LIS.cpp`.
-- The implementation of Dirty-Clean Sort is at `algorithms/DirtyClean3.cpp`.
+- The implementation of Two Moment Sort is at `algorithms/TMS.cpp`.
+- The implementation of Distributional Bisection Sort is at `algorithms/DDS.cpp`.
