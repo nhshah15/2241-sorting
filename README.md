@@ -1,6 +1,6 @@
 
-# Sorting with Predictions
-This repository is the official implementation of *Sorting with Predictions*.
+# Distributional Predictions for Sorting
+This repository contains our experiments for our CS 2241 class project on distributional predictions for sorting. This codebase is a fork of the official implementation of *Sorting with Predictions*. (Thank you!)
 
 # Run the code
 To run the code, please run the following commands in the terminal:
